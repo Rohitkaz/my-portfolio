@@ -1,0 +1,209 @@
+#photo {
+    height: 200px;
+    width: 180px;
+    
+    
+    
+}
+.navbar { 
+
+
+    border-radius: 10px;
+    
+    margin-left: 10px;
+    margin-right: 15px;
+    padding-right: 8px;
+    width: 80px;
+    
+    
+
+    font-size: 17px;
+}
+#nav {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+
+    margin-left: 10px;
+    width: 200px;
+    height: 350px;
+    
+   /* background-image: url(./photos/edward\ kenway.jpg);*/
+}
+#left { position:fixed;
+
+    border-radius: 10px;
+    border: 4px solid black;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:aqua;
+    
+    
+}
+#right {
+    box-shadow: 3px 3px 3px 3px rgb(106, 130, 197);
+    border: 4px solid cornsilk;
+    border-radius: 10px;
+    margin-left: 230px;
+    width: 90%;
+    height: 100%;
+    background-color:#c7ddcc;
+
+}
+#box {  
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    
+    
+}
+.Text {
+    color:rgb(172, 127, 255);
+    font-size: 50px;
+    font-family:sans-serif;
+}
+#academics{
+    box-shadow: 3px 3px 3px 3px rgb(106, 130, 197);
+    margin-left: 230px;
+    border-radius: 10px;
+
+    height: 600px;
+    margin-top: 50px;
+    border:  4px solid cornsilk;
+    background-color:azure;
+}
+#ACAD {
+    text-align: center ;
+    font-size: 30px;
+    font-family: sans-serif;
+    
+}
+.marks {
+    margin-top: 40px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.bar {
+    margin-top: 20px;;
+    border: 2px solid black;
+    height: 20px;
+    width: 600px;
+    background-color: red;
+
+}
+.inner {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: 1px solid black;
+    background-color: red;
+}
+.container {
+    
+    margin-top: 40px;
+  width: 80%; 
+  background-color: #ddd;
+}
+
+.skills {
+    border-radius: 10px;
+  text-align: right; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  color: white; 
+}
+
+.html {width: 85%; background-color: #04AA6D;} 
+.css {width: 70%; background-color: #2196F3;} 
+.js {width: 30%; background-color: #f44336;}
+.C {width: 70%; background-color: #808080;} 
+.acads {
+    border-radius: 10px;
+  text-align: right; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  color: white; 
+}
+
+.tenth {width: 92.4%; background-color: #04AA6D;} 
+.twelth {width: 91.8%; background-color: #2196F3;} 
+#technical { box-shadow: 3px 3px 3px 3px rgb(106, 130, 197);
+    border-radius: 10px;
+    margin-left: 230px;;
+    height: 600px;
+    margin-top: 50px;
+    border:  4px solid cornsilk;
+    background-color:azure;
+}
+#tech {
+    text-align: center ;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+#test{
+    display: flex;
+    
+}
+#skillbars {
+    width: 70%;
+
+}
+#pic2 {
+    height: 450px;
+    border: 4px solid cornsilk;
+
+}
+
+.font{
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.navbar:hover{
+     
+font-size: 20px;
+box-shadow: 4px #f44336;
+
+}
+
+  #contact{ display: flex;
+     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 3px 3px 3px 3px rgb(106, 130, 197);
+    margin-left: 230px;
+    border-radius: 10px;
+
+    height: 600px;
+    margin-top: 50px;
+    border:  4px solid cornsilk;
+    background-color:azure;
+}
+#form{ border: 2px solid black;
+    display:flex;
+    justify-content: center;
+    width:400px;
+    margin-top: 100px;
+    padding-top: 10px;
+    margin-bottom: 100px;
+    border: 4px solid aquamarine;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px;
+    margin-right: 40px;
+}
+.msg{ margin-top: 5px;
+    height: 50px;
+    
+    
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#con{ margin-top: 50px;
+    font-size: 40px;
+    
+    text-align: center ;
+}
